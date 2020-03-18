@@ -1,0 +1,31 @@
+#container {
+	margin: 0px auto;
+	margin-top: 150px;
+	width: 500px;
+	text-align: center;
+	border: solid black;
+	padding: 50px;
+}
+
+#name {
+	font-size: 20px;
+}
+
+#email {
+	font-size: 20px;
+}
+
+#input1 {
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+
+#input2 {
+	font-size: 25px;
+	margin-left: 75px;
+}
+
+#button {
+
+}
+

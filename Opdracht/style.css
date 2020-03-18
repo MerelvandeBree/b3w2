@@ -1,0 +1,71 @@
+body {
+	background-color: grey;
+}
+
+#container {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#form {
+	background-color: white;
+}
+
+.label {
+	margin: 20px;
+	font-size: 20px;
+}
+
+.input {
+	float: right;
+	margin-right: 125px;
+	width: 350px;
+	font-size: 20px;
+}
+
+#button {
+	float: right;
+	font-size: 15px;
+	margin-right: 367px;
+	margin-top: 15px;
+	padding: 10px 20px;
+}
+
+#footer {
+	background-color: lightgrey;
+	margin-top: 100px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 125px;
+	margin: 0px;
+	margin-left: 30px;
+	color: white;
+}
+
+h2 {
+	font-size: 40px;
+	margin: 0px;
+	padding: 20px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	margin-right: 10px;
+}
+
+ul {
+	list-style: none;
+	background-color: red;
+	margin: 0px;
+	padding: 0px;
+}
+
+li {
+	display: inline-block;
+	margin: 20px;
+	padding: 0px;
+	font-size: 20px;
+}
